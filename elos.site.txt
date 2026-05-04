@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="Elos Cabeleireiros Unissex — R. Curt Hering, 385, Centro, Presidente Getúlio/SC. Seg–Sáb 08h–19h. (47) 99108-9781">
+<title>Elos Cabeleireiros Unissex — Presidente Getúlio/SC</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Jost&display=swap" rel="stylesheet">
+
+<style>
+body{margin:0;background:#080808;color:#F2E8D0;font-family:'Jost',sans-serif}
+h1{font-family:'Playfair Display',serif;color:#C8A84B}
+.container{padding:40px;text-align:center}
+.btn{display:inline-block;margin-top:20px;padding:12px 20px;background:#25D366;color:#fff;text-decoration:none}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+  <h1>ELOS Cabeleireiros</h1>
+  <p>Arte e beleza para todos</p>
+  <p>Presidente Getúlio - SC</p>
+
+  <a class="btn" href="https://wa.me/5547991089781" target="_blank">
+    Agendar pelo WhatsApp
+  </a>
+</div>
+
+</body>
+</html>
